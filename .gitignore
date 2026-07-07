@@ -1,0 +1,7 @@
+# Never commit plaintext source to a public repo — encryption would be pointless
+src/
+_out/
+_verify/
+_plain.html
+decrypted/
+.DS_Store
